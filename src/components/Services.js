@@ -1,5 +1,5 @@
 import React from "react";
-import "../App.css"; // Ensure your CSS file matches
+import "../App.css";
 
 const Services = ({ icon, title, description, link }) => {
   return (
